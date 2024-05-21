@@ -1,0 +1,34 @@
+MW1 Brainstorm: AI Project
+
+
+What is the theme?✔️
+Is it a game? Or something else? ✔️
+What is the color scheme? ✔️
+What kind of AI? Image gen? Text gen? Something else?✔️
+Which model are we going to use? (Find one on HuggingFace)✔️
+
+Game: Unstable Intelligence
+Color Scheme: teal, greenish blues, gold
+AI: text to image, text to text, image to text
+Models: 
+	stabilityai/stable-diffusion-xl-base-1.0
+	mistralai/Mistral-7B-Instruct-v0.2
+	Salesforce/blip-image-captioning-large
+	
+	
+
+Features: 
+	- main menu, random item generation
+	- try to create an image of that item without writing the item
+	- timer and rounds
+	
+Color: 
+	0x398C06 - India Green
+	0x58a4b0 - Moonstone
+	0x363a59 - Delft Blue
+	0x19e069 - Turquoise
+	0xa2faa3 - Light Green
+	
+
+
+
